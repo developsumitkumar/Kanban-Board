@@ -17,9 +17,6 @@ Password: @Sumit3o5
 ### Landing Page
 ![Landing Page](screenshots/landing.png)
 
-### Kanban Board
-![Kanban Board](screenshots/board.png)
-
 ### Register & Login
 ![Register](screenshots/register.png)
 ![Login](screenshots/login.png)
@@ -27,6 +24,9 @@ Password: @Sumit3o5
 ### View[Admin & User]
 ![Admin](screenshots/admin_view.png)
 ![Admin](screenshots/user_view.png)
+
+### Kanban Board
+![Kanban Board](screenshots/board.png)
 
 ### User Login Landing
 ![User Landing](./screenshots/user_login_landing.png)
