@@ -5,11 +5,6 @@ A production-level task management application built with **React.js**, **Spring
 🔗 **Live Demo:** [kanban-board-sooty-omega.vercel.app](https://kanban-board-sooty-omega.vercel.app)
 
 ---
-### Important
-```bash
-For admin login use: admin@gmail.com
-Password: @Sumit3o5
-```
 
 
 ## 📸 Screenshots
@@ -33,6 +28,18 @@ Password: @Sumit3o5
  
 ---
 
+### Important 
+(For Admin)
+```bash
+For admin login use: admin@gmail.com
+Password: @Admin123
+```
+(For user)
+use trial user as 
+```bash
+For User login use: sumit@gmail.com
+Password: @Admin123
+```
 ## ✨ Features
 
 ### 🔐 Authentication & Roles
