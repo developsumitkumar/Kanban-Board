@@ -6,6 +6,11 @@ A production-level task management application built with **React.js**, **Spring
 
 ---
 
+```bash
+For admin login use : admin@gmail.com
+Password: @Sumit3o5
+```
+
 ## 📸 Screenshots
 
 ### Landing Page
